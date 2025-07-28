@@ -1,0 +1,1 @@
+This project is to practice making a mod for minecraft java edition.
